@@ -1,1 +1,10 @@
-Dzień dobry, Tutaj jest mój projekt z APBD z 4 ćw Pozdrawiam, s31774 Weronika Piwowarska
+# apbd04 — Testy LINQ na bazie Emp/Dept/Salgrade
+
+Zestaw testów jednostkowych (xUnit) z przedmiotu **APBD**, tłumaczących klasyczne zapytania SQL (na przykładowej bazie Emp/Dept/Salgrade) na zapytania LINQ w C#.
+
+**Technologie:** C#, .NET, xUnit
+
+**Jak uruchomić:**
+```
+dotnet test
+```
